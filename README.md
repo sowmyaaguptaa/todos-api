@@ -7,3 +7,5 @@
 * Followed the following tutorial with some changes 7 fixes [will update README later with the detailed changes] - 
     
     https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
+
+* To run - ```rails s```
