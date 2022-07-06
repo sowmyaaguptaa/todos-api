@@ -11,3 +11,9 @@
 * Install dependencies - ```bundle install```
 
 * To run - ```rails s```
+
+* To run it in debug mode in VSCode -
+    ```
+    gem install ruby-debug-ide
+    gem install debase
+    ``` 
