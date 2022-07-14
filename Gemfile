@@ -57,3 +57,6 @@ end
 
 gem "ruby-debug-ide", "~> 0.7.3"
 gem "debase", "~> 0.2.4"
+
+gem 'bcrypt', '~> 3.1.7'
+gem 'jwt'
